@@ -1,0 +1,3 @@
+- 👋🏽 Hi, I’m @s1ackr
+- ⚙️ I’m interested in automating stuff
+- 🐍 I’m currently Python
